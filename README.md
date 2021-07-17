@@ -4,4 +4,4 @@ Metaheuristics have been proposed as an alternative to mathematical optimization
 # References
 Boulesnane A, Meshoul S (2014) A Modified Wind Driven Optimization Model for Global Continuous Optimization.Hybrid Artificial Intelligent Systems. HAIS 2015. Lecture Notes in Computer Science, vol 9121, pp 294-304
 # link
-https://link.springer.com/chapter/10.1007%2F978-3-319-89743-1_29
+https://link.springer.com/chapter/10.1007/978-3-319-19644-2_25
